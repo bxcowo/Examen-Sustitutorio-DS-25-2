@@ -4,6 +4,8 @@
 - Código de estudiante: 20221346A
 - Nombre y código del curso : Desarrollo de Software (CC3S2B)
 
+- Link al video de explicación: https://drive.google.com/file/d/1t8QhBkG2igzWCxD027FpVaFn7Xg99bQg/view?usp=sharing
+
 ## Contexto único: "Salud crítica - Nodo Local de Diagnóstico Clínico"
 
 Sistema local de clínica rural para:
